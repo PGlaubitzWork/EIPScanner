@@ -1,3 +1,4 @@
+include_directories(FANUC/R-30iB_Plus)
 include_directories(ra/powerFlex525)
 include_directories(yaskawa/mp3300iec)
 
